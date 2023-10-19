@@ -4,3 +4,5 @@
 [Course Link](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/24682426#overview)
 
 [Aws Responsibility Link](aws.amazon.com/compliance/shared-responsibility-model/)
+
+[Certifications link](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
